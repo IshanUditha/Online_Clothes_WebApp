@@ -1,10 +1,11 @@
  import React from 'react'
  import './Item.css'
+import { Link } from 'react-router-dom'
 
 const Item = (props) => {
     return (
         <div className='item'>
-            <img src={props.image} alt=''/>
+           <Link to={`/product/${props.id}`} style={{width:'350px',display:'flex',flexDirection:'column'  }}><img src={props.image} onClick={window.scrollTo(0,0)} alt=''/> </Link>
             <p>{props.name}</p>
             <div className='item-price'>
                 <div className='item-price-new'>
@@ -21,7 +22,7 @@ const Item = (props) => {
             <i class="fa-solid fa-star"></i>
             <i class="fa-solid fa-star"></i>
             <i class="fa-solid fa-star"></i>
-            <i class="fa-solid fa-star"></i>
+            <i class="fa-solid fa-star-half-stroke"></i>
 
             </div>
             

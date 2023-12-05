@@ -8,7 +8,7 @@ import image7 from '../Assets/n_img7.jpg'
 import image8 from '../Assets/n_img8.jpg'
 const new_collection =[
     {
-        id:1,
+        id:33,
         name:'PLEAT DETAILED WORKWEAR PANT',
         image:image1,
         new_price:2195.00,
@@ -16,7 +16,7 @@ const new_collection =[
 
     },
     {
-        id:2,
+        id:34,
         name:'ENGAGE MID WAIST CHINO PANT',
         image:image2,
         new_price:1890.00,
@@ -24,7 +24,7 @@ const new_collection =[
 
     },
     {
-        id:3,
+        id:35,
         name:'ENGAGE HIGH WAIST SLIT DETAILED PANT',
         image:image3,
         new_price:2195.00,
@@ -32,7 +32,7 @@ const new_collection =[
 
     },
     {
-        id:4,
+        id:36,
         name:'AURA EMBROIDERED LINEN MINI DRESS',
         image:image4,
         new_price:1990.00,
@@ -40,7 +40,7 @@ const new_collection =[
 
     },
     {
-        id:5,
+        id:37,
         name:'SPEED LINEN PANT – BROWN',
         image:image5,
         new_price:2895.00,
@@ -48,7 +48,7 @@ const new_collection =[
 
     },
     {
-        id:6,
+        id:38,
         name:'MOOSE MEN’S CHINO PANT – IRISH RED',
         image:image6,
         new_price:3490.00,
@@ -56,7 +56,7 @@ const new_collection =[
 
     },
     {
-        id:7,
+        id:39,
         name:'BELLA GRAPHIC PRINTED OVERSIZED T SHIRT',
         image:image7,
         new_price:1290.00,
@@ -64,7 +64,7 @@ const new_collection =[
 
     },
     {
-        id:8,
+        id:40,
         name:'TENDENZA CHINESE COLLAR FRILL DETAILED TOP',
         image:image8,
         new_price:2390.00,

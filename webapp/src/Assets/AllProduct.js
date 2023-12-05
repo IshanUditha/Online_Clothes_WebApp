@@ -30,6 +30,19 @@
  import image30 from '../Assets/k6.jpg'
  import image31 from '../Assets/k7.jpg'
  import image32 from '../Assets/k8.jpg'
+ import image33 from '../Assets/n_img1.jpg'
+ import image34 from '../Assets/n_img2.jpg'
+ import image35 from '../Assets/n_img3.jpg'
+ import image36 from '../Assets/n_img4.jpg'
+ import image37 from '../Assets/n_img5.jpg'
+ import image38 from '../Assets/n_img6.jpg'
+ import image39 from '../Assets/n_img7.jpg'
+ import image40 from '../Assets/n_img8.jpg'
+ import image41 from '../Assets/r1.jpg'
+import image42 from '../Assets/r2.jpg'
+import image43 from '../Assets/r3.jpg'
+import image44 from '../Assets/r4.jpg'
+
  const all_product =[
    
     {
@@ -320,6 +333,114 @@
         old_price:1600.00,
 
     },
+    {
+        id:33,
+        name:'PLEAT DETAILED WORKWEAR PANT',
+        image:image33,
+        category:'women',
+        new_price:2195.00,
+        old_price:2350.00,
+
+    },
+    {
+        id:34,
+        name:'ENGAGE MID WAIST CHINO PANT',
+        image:image34,
+        category:'women',
+        new_price:1890.00,
+        old_price:2000.00,
+
+    },
+    {
+        id:35,
+        name:'ENGAGE HIGH WAIST SLIT DETAILED PANT',
+        image:image35,
+        category:'women',
+        new_price:2195.00,
+        old_price:2300.00,
+
+    },
+    {
+        id:36,
+        name:'AURA EMBROIDERED LINEN MINI DRESS',
+        image:image36,
+        category:'women',
+        new_price:1990.00,
+        old_price:2100.00,
+
+    },
+    {
+        id:37,
+        name:'SPEED LINEN PANT – BROWN',
+        image:image37,
+        category:'men',
+        new_price:2895.00,
+        old_price:3000.00,
+
+    },
+    {
+        id:38,
+        name:'MOOSE MEN’S CHINO PANT – IRISH RED',
+        image:image38,
+        category:'men',
+        new_price:3490.00,
+        old_price:3600.00,
+
+    },
+    {
+        id:39,
+        name:'BELLA GRAPHIC PRINTED OVERSIZED T SHIRT',
+        image:image39,
+        category:'women',
+        new_price:1290.00,
+        old_price:1400.00,
+
+    },
+    {
+        id:40,
+        name:'TENDENZA CHINESE COLLAR FRILL DETAILED TOP',
+        image:image40,
+        category:'women',
+        new_price:2390.00,
+        old_price:2500.00,
+
+    },
+    {
+        id:41,
+        name:'HIGH WAIST BLACK JEAN',
+        image:image41,
+        category:'women',
+        new_price:3695.00,
+        old_price:3800.00,
+
+    },
+    {
+        id:42,
+        name:'HIGH WAIST BLACK JEAN',
+        image:image42,
+        category:'women',
+        new_price:3395.00,
+        old_price:3600.00,
+
+    },
+    {
+        id:43,
+        name:'MID WASHED ELASTICATED WAIST LEGGING JEAN',
+        image:image43,
+        category:'women',
+        new_price:2395.00,
+        old_price:2600.00,
+
+    },
+    {
+        id:44,
+        name:'HIGH WAIST LIGHT WASHED JEAN',
+        image:image44,
+        category:'women',
+        new_price:3495.00,
+        old_price:3650.00,
+
+    }
 ]
 
  export default all_product;
